@@ -1,0 +1,13 @@
+
+body {
+    position: fixed;
+    width: auto;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    background-color: #f4f4f4;
+    /*font-family: 'Lato', sans-serif;*/
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;;
+    overflow-x: hidden;
+}
+
